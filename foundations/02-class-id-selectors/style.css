@@ -1,0 +1,18 @@
+.class {
+    font-size: large;
+    background-color: rgb(255, 0, 0, .33);
+}
+.cool {
+    font-size:x-large;
+}
+
+#id_1 {
+    font-size:xx-large;
+    color: blue;
+}
+
+#id_2 {
+    background-color: rgba(0, 255, 0, 0.33);
+    font-size:x-large;
+    font-weight: 600;
+}

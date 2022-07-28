@@ -1,0 +1,13 @@
+.btn-1, 
+.btn-2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    border-color: darkgray;
+}
+.btn-1 {
+background-color: black;
+color: white;
+}
+.btn-2 {
+background-color: yellow;
+}
